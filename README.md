@@ -184,8 +184,3 @@ For best results:
 * Gradually increase concurrency (e.g., 25 → 1000)
 * Monitor latency, error rates, and throughput
 * Use results to optimize backend performance and server configuration
-
----
-
-Would you like me to generate this as a downloadable **`README.md` file** (you can upload directly to GitHub)?
-
